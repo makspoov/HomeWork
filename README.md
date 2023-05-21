@@ -34,7 +34,7 @@ source /opt/ros/humble/setup.bash
 export TURTLEBOT3_MODEL=waffle
 ros2 launch turtlebot3_bringup rviz2.launch.py
 ```
-3) Во втором терминале запустить публикатор узла snarbot
+3) Во втором терминале запустить публикатор узла py_pubsub_hw
 ```
 source install/local_setup.bash
 ros2 run py_pubsub_hw talker
