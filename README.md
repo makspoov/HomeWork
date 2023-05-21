@@ -13,7 +13,7 @@ cd ~/ros2_ws
 ```
 2. Склонировать содержимое репозитория
 ```
-git clone [ССЫЛКА](https://github.com/makspoov/HomeWork.git) на наш репозиторий
+git clone https://github.com/makspoov/HomeWork.git
 ```
 3. Меняем командную оболочку с Bash на ROS2
 ```
